@@ -1,0 +1,26 @@
+/* ubuntu01.css */
+
+@font-face {
+    font-family: "Ubuntu";
+    src: url("Ubuntu-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Ubuntu";
+    src: url("Ubuntu-Bold.ttf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Ubuntu";
+    src: url("Ubuntu-Italic.ttf");
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Ubuntu";
+    src: url("Ubuntu-BoldItalic.ttf");
+    font-weight: bold;
+    font-style: italic;
+}
+/* end of ubuntu01.css */
